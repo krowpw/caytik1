@@ -1,0 +1,31 @@
+
+    
+.orange {
+    width: 750px;
+    height:450px;
+    background-color: rgb(218, 160, 94);
+    margin-top: 40px;
+    border: 10px solid rgb(96, 3, 110);
+}
+.violet {
+    width: 600px;
+    height:567px;
+    background-color: rgb(107, 68, 113);
+    margin-top: 650px;
+    border: 5px solid rgb(50, 226, 68);
+}
+.pink {
+    width: 4000px;
+    height:200px;
+    background-color: rgb(236, 154, 249);
+    margin-top: 50px;
+    border: 5px solid rgb(68, 4, 4);
+}
+.orange img {
+    width: 710px;
+    height:400px;
+}
+.orange h3{
+    color:coral;
+    font-size: 35 px;
+}
